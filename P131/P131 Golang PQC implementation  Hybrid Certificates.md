@@ -1,4 +1,4 @@
-# P131 Golang PQC implementation : Hybrid Certificates
+# P131 Golang PQC implementation Hybrid Certificates
 ## Background
 ## X.509 Certificate with PQC extension ( Hybrid Certificates )
 - Def:憑證（Certificate）是一種經過簽章的身份證明文件，用來表明「某個公開金鑰」屬於「某個實體（人、網站、公司）
